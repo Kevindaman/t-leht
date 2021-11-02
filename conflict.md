@@ -1,7 +1,7 @@
 rida1
 rida2
 rida3
-rida4
+0000
 rida5
 rida6
 rida7
